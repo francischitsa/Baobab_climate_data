@@ -1,2 +1,2 @@
-# Baobab_climate_data
-Data for climate trend analysis in the Mid-Zambezi Biosphere Reserve.”
+# Baobab_data
+Data for baobab distribution in the Mid-Zambezi Biosphere Reserve.
